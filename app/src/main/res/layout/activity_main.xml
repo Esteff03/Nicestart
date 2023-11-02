@@ -6,10 +6,6 @@
     android:layout_height="match_parent"
     android:background="@drawable/gradient">
 
-
-    <!--    android:src="@drawable/girl"-->
-
-
     <ImageView
         android:id="@+id/girl"
         android:layout_width="match_parent"
@@ -119,8 +115,6 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         app:layout_constraintGuide_percent="0.80" />
-
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

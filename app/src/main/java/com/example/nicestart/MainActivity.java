@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView;
     Drawable drawable;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
