@@ -26,14 +26,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:contentDescription="@string/image"
-        android:layout_width="71dp"
-        android:layout_height="94dp"
-        android:layout_marginTop="20dp"
-        android:src="@drawable/ic_action_airplane"
-        app:layout_constraintEnd_toEndOf="@id/main"
         app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="@id/main"
-        app:layout_constraintTop_toTopOf="@id/main"
         app:layout_constraintVertical_bias="0.28"
         >
     </ImageView>
@@ -91,7 +84,6 @@
             android:hint="@string/password"
             android:maxLines="1"
             android:alpha="0.6"
-            android:inputType="textPassword"
             android:background="@color/white" />
     </com.google.android.material.textfield.TextInputLayout>
 
