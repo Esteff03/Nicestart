@@ -17,7 +17,7 @@
         <activity
             android:name=".MainVista"
             android:exported="true"
-            android:theme="@style/Base.Theme.Nicestart" /> <!-- Poner eso para que tenga estilo de toolbar el de arriba y revisar esto que esta en style -->
+            android:theme="@style/Base.Theme.NiceStart2.ActionBar" /> <!-- Poner eso para que tenga estilo de toolbar el de arriba y revisar esto que esta en style -->
         />
         <activity
             android:name=".Splash"

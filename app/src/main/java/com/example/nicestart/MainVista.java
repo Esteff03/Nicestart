@@ -27,6 +27,7 @@ import com.google.android.material.snackbar.Snackbar;
 public class MainVista extends AppCompatActivity {
 
 
+
     private TextView mycontext;
     //para el swipe
     private SwipeRefreshLayout swipeLayout;
@@ -37,8 +38,8 @@ public class MainVista extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main_vista);
 
-        //mycontext = (TextView) findViewById(R.id.textovista);
-        //registerForContextMenu(mycontext);
+        mycontext = (TextView) findViewById(R.id.textovista);
+        registerForContextMenu(mycontext);
 
 
 
@@ -47,7 +48,7 @@ public class MainVista extends AppCompatActivity {
         swipeLayout.setOnRefreshListener(mOnRefreshListener);
 
         //La vista dentro es un webview con permiso para zoom
-        miVisorWeb = (WebView) findViewById(R.id.vistaweb);
+        miVisorWeb = (WebView) findViewById(R.id.vistawebe);
 
         WebSettings webSettings = miVisorWeb.getSettings();
         webSettings.setLoadWithOverviewMode(true);
@@ -63,7 +64,6 @@ public class MainVista extends AppCompatActivity {
         });
     }
 
-
     //esta siendo llamado en los itemns del menu desplegable
     public void showAlertDialogButtonClicked(MainVista mainActivity) {
 
@@ -77,7 +77,7 @@ public class MainVista extends AppCompatActivity {
         builder.setCancelable(false);
 
         // un XML a medida para el diálogo se crea otro layout
-        builder.setView(getLayoutInflater().inflate(R.layout.alertdialog_view, null));
+        //  builder.setView(getLayoutInflater().inflate(R.layout.alertdialog_view, null));
 
         // add the buttons
         builder.setPositiveButton("Back", new DialogInterface.OnClickListener() {
@@ -87,6 +87,7 @@ public class MainVista extends AppCompatActivity {
                 Intent intent = new Intent(MainVista.this, Login.class);
                 startActivity(intent);
                 dialog.dismiss();
+
             }
         });
 
@@ -94,6 +95,10 @@ public class MainVista extends AppCompatActivity {
         AlertDialog dialog = builder.create();
         dialog.show();
     }
+
+
+
+
 
 
 
@@ -168,11 +173,11 @@ public class MainVista extends AppCompatActivity {
             final ConstraintLayout mLayout = findViewById(R.id.myMainConstraint);
 
             Snackbar snackbar = Snackbar
-                    .make(mLayout, "Fancy a snack while you refresh?", Snackbar.LENGTH_SHORT)
+                    .make(mLayout, "Enviar mensaje", Snackbar.LENGTH_SHORT)
                     .setAction("Undo", new View.OnClickListener() {
                         @Override
                         public void onClick(View view) {
-                            Snackbar snackbar1 = Snackbar.make(mLayout, "Action is restored!", Snackbar.LENGTH_SHORT);
+                            Snackbar snackbar1 = Snackbar.make(mLayout, "Mensaje cancelado", Snackbar.LENGTH_SHORT);
                             snackbar1.show();
                         }
                     });
@@ -187,6 +192,11 @@ public class MainVista extends AppCompatActivity {
             startActivity(intent);
         }else if(id == R.id.signup) {
             Intent intent = new Intent(this, Signup.class);
+            startActivity(intent);
+        } else if (id == R.id.logout) {
+            showAlertDialogButtonClicked(MainVista.this); //llamada al dialogo alert
+        }else if(id == R.id.item3){
+            Intent intent = new Intent(this, MainActivityToolBar.class);
             startActivity(intent);
         }
 
