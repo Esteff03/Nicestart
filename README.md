@@ -3,7 +3,7 @@
 
 **Es una app móvil, compuesta por varias ventanas o activitys*
 
-***Splash**
+***SPLASH**
 
 
 [Video Splash.webm](https://github.com/user-attachments/assets/6aa87ea6-2d75-428f-a9d5-a2bfd43df4f2)
@@ -19,7 +19,7 @@
 
 
 
-**Login**
+**LOGIN**
   
 
 
