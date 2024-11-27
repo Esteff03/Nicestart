@@ -1,6 +1,10 @@
 
 # Nicestart··
 
+**Es una app móvil, compuesta por varias ventanas o activitys*
+
+***Splash**
+
 
 [Video Splash.webm](https://github.com/user-attachments/assets/6aa87ea6-2d75-428f-a9d5-a2bfd43df4f2)
 
@@ -10,7 +14,9 @@
 
 ![2024-10-23_12-40-10](https://github.com/user-attachments/assets/657bdf09-4f6b-464f-93ff-306549c09566)
 
-**Es una app móvil, compuesta por varias ventanas*
+
+
+
 
 
 **Login**
