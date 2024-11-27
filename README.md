@@ -5,7 +5,9 @@
 
 
 **SPLASH**
-![Splash](https://github.com/user-attachments/assets/2dabfea6-2f86-4dc1-badf-68b950282ba5)
+
+![image](https://github.com/user-attachments/assets/c6a0536b-c499-4fda-8d4d-6b6e7cb15b20)
+
 
 
 
