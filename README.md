@@ -1,16 +1,19 @@
 
 # Nicestart
 
-[Screen_recording_20241127_161842.webm](https://github.com/user-attachments/assets/86f13d10-02f9-41a0-a3b4-94eb64571e24)
+
+[Video Splash.webm](https://github.com/user-attachments/assets/6aa87ea6-2d75-428f-a9d5-a2bfd43df4f2)
+
+
 
 
 
 ![2024-10-23_12-40-10](https://github.com/user-attachments/assets/657bdf09-4f6b-464f-93ff-306549c09566)
 
-* Es una app, compuesta por un activity_login.
+* Es una app móvil, compuesta por varias ventanas.
 
 
-
+Un Login.
   
 
 
@@ -22,7 +25,7 @@
 ![2024-10-23_13-05-03](https://github.com/user-attachments/assets/d8b2ee4e-2c07-4098-9f1a-f3ba8a7ec39e)
 
 
-* Un activity_signup, donde el usuario podra registrarse.
+* Un Signup, donde el usuario podra registrarse.
   
   
 * Parte del codigo de creación de botones:
