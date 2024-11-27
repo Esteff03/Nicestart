@@ -56,7 +56,8 @@ Ejemplo de cómo se podria implementar la funcionalidad de los botones:
 
 
 
-![Profile](https://github.com/user-attachments/assets/c95212c6-adf2-4691-8f4c-12f7c93d8f02)
+![image](https://github.com/user-attachments/assets/cc2c24f9-ea4c-41a0-965b-fd7efbe920ed)
+
 
 
 
