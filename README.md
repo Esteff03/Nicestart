@@ -1,6 +1,10 @@
 
 # Nicestart
 
+[Screen_recording_20241127_161842.webm](https://github.com/user-attachments/assets/86f13d10-02f9-41a0-a3b4-94eb64571e24)
+
+
+
 ![2024-10-23_12-40-10](https://github.com/user-attachments/assets/657bdf09-4f6b-464f-93ff-306549c09566)
 
 * Es una app, compuesta por un activity_login.
