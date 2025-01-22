@@ -14,4 +14,6 @@
     <string name="Imagegirl">Imagegirl</string>
     <string name="Nicestart">Nicestart</string>
     <string name="TextView">TextView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
