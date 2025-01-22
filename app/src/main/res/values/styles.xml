@@ -19,7 +19,9 @@
     <style name="Base.Theme.Nicestart." parent="Theme.AppCompat.Light.DarkActionBar"/>
 
     <style name="Theme.First" parent="Base.Theme.Nicestart">
-        <!-- Personaliza tu tema aquí -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/azul_1</item>
+        <item name="colorOnSurface">@color/fucsia_200</item>
     </style>
 
 
