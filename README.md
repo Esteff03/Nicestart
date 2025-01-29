@@ -81,6 +81,15 @@ Ejemplo de cómo se podria implementar la funcionalidad de los botones:
 https://www.canva.com/design/DAGU3AcoaJk/sqLPWm-wOrtIXlIuCBLk8Q/edit?utm_content=DAGU3AcoaJk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
+
+
+![Screenshot_20250129_221424](https://github.com/user-attachments/assets/78e319c5-a41d-4bf0-8eb3-0642af7e4404)
+
+
+
+![Screenshot_20250129_221616](https://github.com/user-attachments/assets/d45b9464-e11e-4bda-9822-f2c8823d88d2)
+
+
     
 
 
