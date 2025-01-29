@@ -4,7 +4,7 @@
 **Es una app móvil, compuesta por varias ventanas o activitys*
 
 
-**SPLASH**
+*Splash*
 
 ![image](https://github.com/user-attachments/assets/c6a0536b-c499-4fda-8d4d-6b6e7cb15b20)
 
@@ -19,7 +19,7 @@
 
 
 
-**LOGIN**
+*Login*
 
 
 ![image](https://github.com/user-attachments/assets/d963002c-1eb3-43b9-a5f4-5522b8281384)
@@ -28,7 +28,7 @@
 
 
   
-**SIGNUP**
+*Signup*
 
 
 
@@ -52,7 +52,7 @@ Ejemplo de cómo se podria implementar la funcionalidad de los botones:
 
 
 
-**PROFILE**
+*Profile*
 
 
 
@@ -61,7 +61,7 @@ Ejemplo de cómo se podria implementar la funcionalidad de los botones:
 
 
 
-**MAIN**
+*Main*
 
 
 
@@ -93,7 +93,7 @@ https://www.canva.com/design/DAGU3AcoaJk/sqLPWm-wOrtIXlIuCBLk8Q/edit?utm_content
     
 
 
-***Proyecto educativo de 2º DAM, ies Juan de la Cierva. Realizado en Android Studio.**
+**Proyecto educativo de 2º DAM, ies Juan de la Cierva. Realizado en Android Studio.**
 
 
 
