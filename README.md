@@ -90,6 +90,10 @@ https://www.canva.com/design/DAGU3AcoaJk/sqLPWm-wOrtIXlIuCBLk8Q/edit?utm_content
 ![Screenshot_20250129_221616](https://github.com/user-attachments/assets/d45b9464-e11e-4bda-9822-f2c8823d88d2)
 
 
+Landscape:
+
+![image](https://github.com/user-attachments/assets/39041090-63af-4194-b6d6-332403abbc32)
+
     
 
 
